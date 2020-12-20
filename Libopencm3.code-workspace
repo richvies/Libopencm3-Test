@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git*": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			".gitignore": true,
+			"README.md": false
+		},
+		"python.pythonPath": "/usr/local/anaconda3/bin/python",
+		"terminal.integrated.inheritEnv": false,
+		"terminal.integrated.env.osx": {
+			"PATH":"/usr/local/anaconda3/bin"
+		}
+	}
+}
